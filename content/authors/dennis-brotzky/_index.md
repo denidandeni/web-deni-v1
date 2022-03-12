@@ -1,19 +1,13 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+title: Deni Kurniawan
+bio: "Currently lead a product design team at Inspigo, a Learning ppp through podcast
+  from \U0001F1EE\U0001F1E9 Indonesia"
+avatar: "/images/dennis-brotzky.jpg"
 featured: true
 social:
-  - title: unsplash
-    url: https://unsplash.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: Twitter
+  url: twitter.com/denidandeni
+- title: unsplash
+  url: https://unsplash.com
+
 ---
