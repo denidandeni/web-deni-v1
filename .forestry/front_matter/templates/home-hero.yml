@@ -18,3 +18,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- config/_default/master2.yaml
